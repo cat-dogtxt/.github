@@ -4,7 +4,7 @@
 
 🌈 Contributors - Bursa Technical University Students
 
-| Student Name  | Github Adress |
+| Student Name  | Github |
 | ------------- | ------------- |
 | Sefa EREN  | [riatorz](https://github.com/riatorz)  |
 | Alperen Orhan  | [alperenorhan](https://github.com/alperenorhan)  |
