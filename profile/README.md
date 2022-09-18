@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to BTU CSE Bot Page!
 
 🙋‍♀️ A short introduction - This organization about a discord bot that we're working on it!
 
