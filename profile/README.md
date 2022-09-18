@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+🙋‍♀️ A short introduction - This organization about a discord bot that we're working on it!
 
-**Here are some ideas to get you started:**
+🌈 Contributors - Bursa Technical University Students
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Student Name  | Github Adress |
+| ------------- | ------------- |
+| Sefa EREN  | [riatorz](https://github.com/riatorz)  |
+| Alperen Orhan  | [alperenorhan](https://github.com/alperenorhan)  |
+| Samet Gümüş | [sagumax404](https://github.com/sagumax404) |
+| Arda Aydın Kılınç | [adraarda23](https://github.com/adraarda23) |
