@@ -11,12 +11,7 @@
 | Samet Gümüş | [sagumax404](https://github.com/sagumax404) |
 | Arda Aydın Kılınç | [adraarda23](https://github.com/adraarda23) |
 | Ahmet Yumutkan | [ahmetymtkn](https://github.com/ahmetymtkn) |
-| Elif Pazarbaşı | [elifpazarda](https://github.com/elifpazarda) |
-| Hasna Şahinoğlu | [hasnasahinoglu](https://github.com/hasnasahinoglu) |
 | Efekan Aksoy | [rosebud42](https://github.com/rosebud42) |
 | Abdullah Çelik | [Oxhi1](https://github.com/Oxhi1) |
-| Sudenur Elmas | [sdnrelms](https://github.com/sdnrelms) |
 | Emir Rıdvan Toraman | [emirrdvn](https://github.com/emirrdvn) |
-| Ahmet Safa Ünal | [sefapasha](https://github.com/sefapasha) |
-| Ahmet Can Yarba | [timbermoons](https://github.com/timbermoons) |
-| Bahri İlhan | [Bahri20](https://github.com/Bahri20) |
+| Fatih Parmaksız | [Fatihparm](https://github.com/Fatihparm) |
