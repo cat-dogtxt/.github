@@ -15,3 +15,5 @@
 | Abdullah Çelik | [Oxhi1](https://github.com/Oxhi1) |
 | Emir Rıdvan Toraman | [emirrdvn](https://github.com/emirrdvn) |
 | Fatih Parmaksız | [Fatihparm](https://github.com/Fatihparm) |
+
+Contact us to join the team: [Telegram](https://t.me/sefaeren0)
