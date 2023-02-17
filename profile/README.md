@@ -1,6 +1,6 @@
 ## Welcome to BTU CSE Bot Page!
 
-🙋‍♀️ A short introduction - This organization about a discord bot that we're working on it!
+🙋‍♀️ A short introduction - This organization about our projects that we're working on it!
 
 🌈 Contributors - Bursa Technical University Students
 
